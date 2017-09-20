@@ -1,0 +1,4 @@
+﻿  Project2Final.cpp
+c:\users\colin\source\repos\project2final\project2final\project2final.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2Final.vcxproj -> C:\Users\colin\source\repos\Project2Final\Debug\Project2Final.exe
+  Project2Final.vcxproj -> C:\Users\colin\source\repos\Project2Final\Debug\Project2Final.pdb (Partial PDB)
